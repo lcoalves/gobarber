@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/eliasgcf/" target="_blank" rel="noopener noreferrer"><img alt="Made by" src="https://img.shields.io/badge/made%20by-Elias%20Gabriel-%23FF9000"></a>
-  <a href="https://github.com/EliasGcf/gobarber/blob/master/README.md"><img alt="GitHub" src="https://img.shields.io/github/license/EliasGcf/gobarber?color=%23FF9000"></a>
+	<a href="https://www.linkedin.com/in/llucascoalves/" target="_blank" rel="noopener noreferrer"><img alt="Made by" src="https://img.shields.io/badge/made%20by-Lucas%20Alves-%23FF9000"></a>
+  <a href="https://github.com/lcoalves/gobarber/blob/master/README.md"><img alt="GitHub" src="https://img.shields.io/github/license/lcoalves/gobarber?color=%23FF9000"></a>
 </p>
 
 <img alt="Mockup" src="https://res.cloudinary.com/eliasgcf/image/upload/v1587509596/GoBarber/mockup_ocggit.png">
@@ -15,9 +15,9 @@ To make this project more organized, I moved the applications **(rest api, web c
 
 Here are the links to them
 
-- [REST API](https://github.com/EliasGcf/gobarber-api)
-- [Web client](https://github.com/EliasGcf/gobarber-web)
-- [Mobile client](https://github.com/EliasGcf/gobarber-mobile)
+- [REST API](https://github.com/lcoalves/gobarber-api)
+- [Web client](https://github.com/lcoalves/gobarber-web)
+- [Mobile client](https://github.com/lcoalves/gobarber-mobile)
 
 ## 📝 License
 
@@ -25,4 +25,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with 💜 &nbsp;by Elias Gabriel 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/eliasgcf/)
+Made with 💜 &nbsp;by Lucas Alves 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/lcoalves/)
